@@ -28,6 +28,7 @@ class EntryPoint
     // decimal has large precision (28 to 29 digits AND cuts off)
     decimal decValue = 142422536457.12312335352m; // note m
     decimal decimalMax = decimal.MaxValue;
+    Console.WriteLine(decValue);
     Console.WriteLine(decimalMax);
     }
 }

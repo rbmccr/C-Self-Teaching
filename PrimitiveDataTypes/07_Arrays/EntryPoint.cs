@@ -2,7 +2,7 @@
 
 class EntryPoint
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int[] numbers = { 5, 5, 6, 7, 3, 4, 5, 6 };
 
