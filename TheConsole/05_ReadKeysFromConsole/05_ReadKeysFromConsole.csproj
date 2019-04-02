@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{264DFF42-E961-46E4-8249-2B15BAB4D19A}</ProjectGuid>
+    <ProjectGuid>{8807AFFA-54D0-4779-A785-7FFC0C90B636}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_OutputSpecialCharsToconsole</RootNamespace>
-    <AssemblyName>02_OutputSpecialCharsToconsole</AssemblyName>
+    <RootNamespace>_05_ReadKeysFromConsole</RootNamespace>
+    <AssemblyName>05_ReadKeysFromConsole</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

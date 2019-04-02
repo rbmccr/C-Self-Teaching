@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{264DFF42-E961-46E4-8249-2B15BAB4D19A}</ProjectGuid>
+    <ProjectGuid>{0BF79782-F01C-4281-886B-CD2DD78F173F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_OutputSpecialCharsToconsole</RootNamespace>
-    <AssemblyName>02_OutputSpecialCharsToconsole</AssemblyName>
+    <RootNamespace>_06_ChangeConsoleColors</RootNamespace>
+    <AssemblyName>06_ChangeConsoleColors</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

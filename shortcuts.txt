@@ -1,4 +1,6 @@
 SHIFT + ALT + DOWN = Write on multiple lines
-CTRL + E + V = Copy an entire line of code
+CTRL + D  = Copy an entire line of code
 CTRL + K, CTRL + F = Format selection
 CTRL + K, CTRL + D = Format document
+CTRL + K, CTRL + C = Comment a line
+CTRL + K, CTRL + U = Uncomment a line
