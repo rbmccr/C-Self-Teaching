@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ReadKeysFromConsole", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ChangeConsoleColors", "06_ChangeConsoleColors\06_ChangeConsoleColors.csproj", "{0BF79782-F01C-4281-886B-CD2DD78F173F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ConsoleCursorSettings", "07_ConsoleCursorSettings\07_ConsoleCursorSettings.csproj", "{5D741180-CB96-4AEF-8718-AE910242D140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ConsoleWindowSize", "08_ConsoleWindowSize\08_ConsoleWindowSize.csproj", "{E6777A31-5870-434C-98D2-3F9501B113F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{0BF79782-F01C-4281-886B-CD2DD78F173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF79782-F01C-4281-886B-CD2DD78F173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF79782-F01C-4281-886B-CD2DD78F173F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D741180-CB96-4AEF-8718-AE910242D140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D741180-CB96-4AEF-8718-AE910242D140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D741180-CB96-4AEF-8718-AE910242D140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D741180-CB96-4AEF-8718-AE910242D140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6777A31-5870-434C-98D2-3F9501B113F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6777A31-5870-434C-98D2-3F9501B113F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6777A31-5870-434C-98D2-3F9501B113F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6777A31-5870-434C-98D2-3F9501B113F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
